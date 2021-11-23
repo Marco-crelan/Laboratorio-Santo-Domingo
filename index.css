@@ -1,0 +1,7 @@
+@import"menu.css";
+@import"main.css";
+@import"servicios.css";
+
+html,body{
+    font-family: 'Noto Sans Mono', monospace;
+}

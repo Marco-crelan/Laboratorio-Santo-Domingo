@@ -1,0 +1,21 @@
+Móvil
+Móvil S 320px
+Móvil M 375px
+Móvil L 425px
+
+Tablet
+Tablet 768px
+Tablet 950px
+
+Laptop
+Laptop S1024px
+Laptop M 1200px
+Laptop L 1440px
+
+Desktop
+Desktop S 1600px
+Desktop M 1800px
+Desktop L1920px
+
+4K
+2560px
