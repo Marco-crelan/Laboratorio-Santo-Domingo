@@ -7,6 +7,7 @@
     display: flex;
     justify-content: space-between;
     margin: auto;
+    border-bottom: #009EE0 3px solid;
 }
 
 #logo {
@@ -60,7 +61,8 @@
     width: 30%;
     height: auto;
     position: relative;
-    border-bottom-left-radius: 25px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
 }
 
 .iconos a:nth-child(2) img {
@@ -120,7 +122,7 @@
 }
 
 .img {
-    border-radius: 100%;
+    /*border-radius: 100%;*/
     overflow: hidden;
     width: 700px;
     height: 700px;
